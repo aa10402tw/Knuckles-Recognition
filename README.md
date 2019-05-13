@@ -5,6 +5,9 @@ This project is aimed to use the image which is concatnated by three images toke
 ![image](imgs/input.png)  <br>
 For example, the label of above image is "index_finger_1", where the "1" means it is the first knuckle of the index finger.
 
+### Result Demo
+![image](imgs/result.gif)  <br>
+
 ### Single Camera
 It's also possible to achieve knuckles-Recognition using single camera like the demo link below
 https://www.youtube.com/watch?v=hllfWS1LgSk&feature=youtu.be&fbclid=IwAR21g11fcau748lfvHjAUe-dnBQHKKKRloLdvMhGN-X7jmA5F1z-CZCwSh4.
