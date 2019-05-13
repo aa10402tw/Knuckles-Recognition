@@ -3,4 +3,5 @@ This project is aimed to use the image which is concatnated by three images toke
 
 ### Input Image
 ![image](imgs/input.png)  <br>
+For example, the label of above image is "index_finger_1", where the "1" means it is the first knuckle of the index finger.
 
